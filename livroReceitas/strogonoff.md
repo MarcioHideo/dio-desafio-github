@@ -1,5 +1,3 @@
-texto de carne.md
-
 # Strogonoff de Carne :cow: 
 
 ### Ingredientes
