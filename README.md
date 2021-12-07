@@ -1,4 +1,4 @@
-# Desafio do Projeto de Git/Githuh :computer:
+# Desafio do Projeto de Git/Github :computer:
 
 ## Propósito deste desafio
 
